@@ -1,0 +1,42 @@
+.intro {
+  font-style: italic;
+}
+.author {
+  color: yellowgreen;
+  font-size: 12px;
+}
+.author {
+  color: yellowgreen;
+}
+p.author {
+  font-size: 12px;
+}
+#line2 {
+  color: blue;
+
+}
+img {
+  float: right;
+}
+.column {
+  width: 350px;
+  float: right;
+}
+.test-box {
+  border: 2px solid yellow;
+  border-left: 2px solid blue;
+  border-right: solid red;
+  border-top: 6px solid orange;
+  border-bottom: solid black;
+  
+}
+.test-box {
+  border: 2px solid yellow;
+  padding: 6px;
+  margin: 20px;
+  margin-right: 70px;
+  float: left;
+}
+.dogs p a {
+  font-style: italic;
+}
